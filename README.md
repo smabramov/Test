@@ -246,6 +246,8 @@ kubectl get deployments,svc,pods,ingress
 
 5. Напишите политику для AWS S3 бакета, которая разрешает доступ только с определенных IP адресов.
 
+### Ответ
+
 Пример политики (подставьте свои значения):
 
 ```
@@ -322,6 +324,8 @@ YOUR_BUCKET_NAME → имя вашего бакета.
 Permissions → Block Public Access → Enable all settings.
 
 6. Объясните паттерны IaaS/PaaS/SaaS на примере пиццы.
+
+### Ответ
 
 1. IaaS (Infrastructure as a Service) — "Собери сам"
 
@@ -445,6 +449,7 @@ kubectl get networkpolicies --all-namespaces
 
 9. Что такое POSIX?
 
+### Ответ
 
 POSIX (Portable Operating System Interface) — это набор стандартов, определяющих совместимость между Unix-подобными операционными системами. Его цель — гарантировать, что программы, написанные для одной Unix-системы, будут работать и на других без изменений.
 
